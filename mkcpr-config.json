@@ -1,0 +1,13 @@
+{
+    "code_folder": "/home/daniel692/algorithms/my_cp_reference/CodeFolder",
+    "template_path": "/home/daniel692/algorithms/my_cp_reference/Template.tex",
+    "output_file_path": "/home/daniel692/algorithms/my_cp_reference/Output.tex",
+    "excluded": [
+        "__pycache__",
+        ".vscode"
+    ],
+    "columns": 2,
+    "template_placeholder": "CODE HERE",
+    "sort_before": [],
+    "sort_after": []
+}
