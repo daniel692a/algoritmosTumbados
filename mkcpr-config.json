@@ -3,8 +3,8 @@
     "template_path": "/home/daniel692/algorithms/my_cp_reference/Template.tex",
     "output_file_path": "/home/daniel692/algorithms/my_cp_reference/Output.tex",
     "excluded": [
-        "__pycache__",
-        ".vscode"
+        ".vscode",
+        "__pycache__"
     ],
     "columns": 2,
     "template_placeholder": "CODE HERE",
